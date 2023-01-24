@@ -1,5 +1,8 @@
 # Pomodor 🍅
-## Pomodor is a Simple timer that objective increase focus and concentration ##
+
+### VERSION: v2
+
+## `Pomodor` is a Simple timer that objective increase focus and concentration ##
 
 # use ⏲️
 ---------
